@@ -19,6 +19,7 @@
 
   ## Usage
   Go to package.json to ensure all dependencies are installed 'npm i'
+  ### https://drive.google.com/file/d/1eiZFoXvLferL2I_53guHZaFunuWGsxC2/view
 
   ## Contributors:
   UofT Starter Code Provided, TA's, Nimit Patel
